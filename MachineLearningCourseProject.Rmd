@@ -7,7 +7,7 @@ output:
 
 ###Executive Summary
 
-Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about personal activity relatively inexpensively. One thing that people regularly do is quantify how much of a particular activity they do, but they rarely quantify how well they do it. In this report, we aim to use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants to create a model to predict the way in which the dumbell lifts are performed (whether this be the correct way or one of 4 incorrect ways). 
+Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about personal activity relatively inexpensively. One thing that people regularly do is quantify how much of a particular activity they do, but they rarely quantify how well they do it. In this report, we aim to use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants to create a model to predict the way in which the dumbell lifts are performed (whether this be the correct way or one of 4 incorrect ways).
 
 ###Read in the Data
 
